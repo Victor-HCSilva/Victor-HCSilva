@@ -10,7 +10,6 @@
 <span><img src="Python-Dark.svg" width="50"></span>
 <span><img src="JavaScript.svg" width="50"></span>
 <span><img src="Git.svg" width="50"></span>
-<span><img src="Github-Dark.svg" width="50"></span>
 <span><img src="HTML.svg" width="50"></span>
 <span><img src="CSS.svg" width="50"></span>
 <span><img src="Django.svg" width="50"></span>
