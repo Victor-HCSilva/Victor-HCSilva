@@ -3,6 +3,8 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Victor-HCSilva&=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
-<p ><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Victor-HCSilva" alt="Victor Hugo " /></p>
+
+
+<p ><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Victor-HCSilva" alt="Victor Hugo" /></p>
 
 

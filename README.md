@@ -17,6 +17,5 @@
 <br>
 
 
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/b0/fe/e3/b0fee33d7a8e955e72da5d06e6713e43.gif" >
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Victor-HCSilva&=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
 
