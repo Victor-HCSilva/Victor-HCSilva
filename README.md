@@ -12,7 +12,7 @@
 <span><img src="HTML.svg" width="50"></span>
 <span><img src="CSS.svg" width="50"></span>
 <span><img src="Django.svg" width="50"></span>
-<span><img src="SQLite.svg" width="50"></span>
+<span><img src="sql.png" width="50"></span>
 
 <br>
 
