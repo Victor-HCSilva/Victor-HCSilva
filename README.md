@@ -1,4 +1,4 @@
-## Olá, meu nome é Victor!
+## Olá, me chamo Victor!
 
 - Programador backend - `Python` 🐍
 - Portifólio: https://portifolio-liart-iota.vercel.app/
